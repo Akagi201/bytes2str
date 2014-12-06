@@ -1,0 +1,11 @@
+{
+  "name": "bytes2str",
+  "version": "0.1.0",
+  "repo": "Akagi201/bytes2str",
+  "description": "Convert binary bytes data to printable string.",
+  "license": "MIT",
+  "src": [
+    "src/bytes2str.c",
+    "src/bytes2str.h"
+  ]
+}
