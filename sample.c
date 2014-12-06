@@ -5,7 +5,7 @@
  */
 
 #include <stdio.h>
-#include <bytes2str.h>
+#include "bytes2str.h""
 
 int main(void) {
     char in[] = {0xC8, 0x32, 0x9B, 0xFD, 0x0E, 0x01};
